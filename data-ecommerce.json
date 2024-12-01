@@ -3,12 +3,7 @@
   "products": [
     {
       "id": "1",
-      "images": [
-        "racing1.webp",
-        "racing2.webp",
-        "racing3.webp",
-        "racing4.webp"
-      ],
+      "images": [],
       "imageDescription": "racing-description.webp",
       "name": "Lit Voiture Speedy",
       "description": "Transformez la chambre de votre enfant en circuit de course !",
