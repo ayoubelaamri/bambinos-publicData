@@ -1,66 +1,103 @@
 {
-    "products": [
-      {
-        "id": "1",
-        "images": ["racing1.webp", "racing2.webp", "racing3.webp", "racing4.webp"],
-        "imageDescription": "racing-description.webp",
-        "name": "Lit Voiture Speedy 90x190cm",
-        "description": "Transformez la chambre de votre enfant en circuit de course !",
-        "price": "1990,00",
-        "oldPrice": "4800,00",
-        "variations": [],
-        "features": [
-          "Lit en forme de voiture de course",
-          "Dimension (L x l x h): 200 x 100 x 55 cm",
-          "Dimensions de couchage : 90 x 190 cm",
-          "Sommier inclus, Matelas non inclus",
-          "Kit de montage inclu .."
-        ]
-      },
-      {
-        "id": "2",
-        "images": ["bureau2.webp", "bureau1.webp", "bureau3.webp", "bureau4.webp"],
-        "imageDescription": "bureau-description.webp",
-        "name": "Bureau Speedy 110x60cm",
-        "description": "At vero accusamus et iusto odio dignissimos blanditiis praesentiums dolores molest.",
-        "price": "1490,00",
-        "oldPrice": "3490,00",
-        "variations": [],
-        "features": [
-          "Dimension (L x l x h): 120 x 60 x 74 cm",
-          "Kit de montage inclu .."
-        ]
-      },
-      {
-        "id": "3",
-        "images": ["tania1.webp", "tania2.webp", "tania3.webp", "tania4.webp"],
-        "imageDescription": "tania-description.webp",
-        "name": "Lit Superposé Tania 90x190cm avec escalier",
-        "description": "Lit superposé pour 2 enfants. Possibilité de choisir la couleur et personnaliser le thème de décoration.",
-        "price": "4900,00",
-        "oldPrice": "9800,00",
-        "variations": [],
-        "features": [
-          "Tania Flash : S’endormir & bien dormir",
-          "Dimension L:240x110x150 cm"
-        ]
-      },
-      {
-        "id": "4",
-        "images": ["princess1.webp","princess2.webp","princess3.webp","princess4.webp"],
-        "imageDescription": null,
-        "name": "Lit Princesse",
-        "description": "Transformez la chambre de votre enfant en circuit de course !",
-        "price": "1990,00",
-        "oldPrice": "3990,00",
-        "variations": [],
-        "features": [
-          "Lit en forme de voiture de course",
-          "Dimension (L x l x h): 200 x 100 x 55 cm",
-          "Dimensions de couchage : 90 x 190 cm",
-          "Sommier inclus, Matelas non inclus",
-          "Kit de montage inclu .."
-        ]
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": "1",
+      "images": [
+        "racing1.webp",
+        "racing2.webp",
+        "racing3.webp",
+        "racing4.webp"
+      ],
+      "imageDescription": "racing-description.webp",
+      "name": "Lit Voiture Speedy 90x190cm",
+      "description": "Transformez la chambre de votre enfant en circuit de course !",
+      "price": "1990,00",
+      "oldPrice": "4800,00",
+      "variations": [],
+      "features": [
+        "Lit en forme de voiture de course",
+        "Dimension (L x l x h): 200 x 100 x 55 cm",
+        "Dimensions de couchage : 90 x 190 cm",
+        "Sommier inclus, Matelas non inclus",
+        "Kit de montage inclu .."
+      ]
+    },
+    {
+      "id": "2",
+      "images": [
+        "bureau2.webp",
+        "bureau1.webp",
+        "bureau3.webp",
+        "bureau4.webp"
+      ],
+      "imageDescription": "bureau-description.webp",
+      "name": "Bureau Speedy 110x60cm",
+      "description": "At vero accusamus et iusto odio dignissimos blanditiis praesentiums dolores molest.",
+      "price": "1490,00",
+      "oldPrice": "3490,00",
+      "variations": [],
+      "features": [
+        "Dimension (L x l x h): 120 x 60 x 74 cm",
+        "Kit de montage inclu .."
+      ]
+    },
+    {
+      "id": "3",
+      "images": ["tania1.webp", "tania2.webp", "tania3.webp", "tania4.webp"],
+      "imageDescription": "tania-description.webp",
+      "name": "Lit Superposé Tania 90x190cm avec escalier",
+      "description": "Lit superposé pour 2 enfants. Possibilité de choisir la couleur et personnaliser le thème de décoration.",
+      "price": "4900,00",
+      "oldPrice": "9800,00",
+      "variations": [],
+      "features": [
+        "Tania Flash : S’endormir & bien dormir",
+        "Dimension L:240x110x150 cm"
+      ]
+    },
+    {
+      "id": "4",
+      "images": [
+        "princess1.webp",
+        "princess2.webp",
+        "princess3.webp",
+        "princess4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit Princesse",
+      "description": "Transformez la chambre de votre enfant en circuit de course !",
+      "price": "1990,00",
+      "oldPrice": "3990,00",
+      "variations": [],
+      "features": [
+        "Lit en forme de voiture de course",
+        "Dimension (L x l x h): 200 x 100 x 55 cm",
+        "Dimensions de couchage : 90 x 190 cm",
+        "Sommier inclus, Matelas non inclus",
+        "Kit de montage inclu .."
+      ]
+    },
+    {
+      "id": "5",
+      "images": [
+        "elara1.webp",
+        "elara2.webp",
+        "elara3.webp",
+        "elara4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit Elara",
+      "description": "Transformez la chambre de votre enfant en circuit de course !",
+      "price": "1990,00",
+      "oldPrice": "3990,00",
+      "variations": [],
+      "features": [
+        "Lit en forme de voiture de course",
+        "Dimension (L x l x h): 200 x 100 x 55 cm",
+        "Dimensions de couchage : 90 x 190 cm",
+        "Sommier inclus, Matelas non inclus",
+        "Kit de montage inclu .."
+      ]
+    }
+  ]
+}
