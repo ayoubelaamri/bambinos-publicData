@@ -28,10 +28,10 @@
     {
       "id": "2",
       "images": [
-        "princess1.webp",
-        "princess2.webp",
-        "princess3.webp",
-        "princess4.webp"
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/princess1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/princess2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/princess3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/princess4.webp"
       ],
       "imageDescription": null,
       "name": "Lit Princesse",
@@ -52,10 +52,10 @@
     {
       "id": "3",
       "images": [
-        "bureau2.webp",
-        "bureau1.webp",
-        "bureau3.webp",
-        "bureau4.webp"
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/bureau2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/bureau1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/bureau3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/bureau4.webp"
       ],
       "imageDescription": "bureau-description.webp",
       "name": "Bureau Speedy",
@@ -73,10 +73,10 @@
     {
       "id": "4",
       "images": [
-        "epsilon1.webp",
-        "epsilon2.webp",
-        "epsilon3.webp",
-        "epsilon4.webp"
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/epsilon1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/epsilon2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/epsilon3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/epsilon4.webp"
       ],
       "imageDescription": null,
       "name": "Lit EPSILON",
@@ -90,7 +90,11 @@
     },
     {
       "id": "5",
-      "images": ["diva3.webp", "diva2.webp", "diva1.webp"],
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/diva3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/diva2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/diva1.webp"
+      ],
       "imageDescription": null,
       "name": "Lit DIVA",
       "description": "Ce lit est un mélange sensations: vigueur de la voiture et la sensibilité d’une princesse qui voyage vers un monde plein d’imaginations et de plaisir. Le choix des couleurs et la personnalisation du thème et possible.",
@@ -103,7 +107,12 @@
     },
     {
       "id": "6",
-      "images": ["mira1.webp", "mira2.webp", "mira3.webp", "mira4.webp"],
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/mira1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/mira2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/mira3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/mira4.webp"
+      ],
       "imageDescription": null,
       "name": "Lit MIRA",
       "description": "Mira: donnez a votre princesse son monde féerique. Les couleurs et les thèmes sont personnalisables.",
@@ -116,7 +125,12 @@
     },
     {
       "id": "7",
-      "images": ["tania3.webp", "tania2.webp", "tania1.webp", "tania4.webp"],
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tania3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tania2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tania1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tania4.webp"
+      ],
       "imageDescription": "tania-description.webp",
       "name": "Lit Superposé Tania",
       "description": "Lit superposé pour 2 enfants. Possibilité de choisir la couleur et personnaliser le thème de décoration.",
@@ -132,7 +146,9 @@
     },
     {
       "id": "8",
-      "images": ["rosny1.webp"],
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/rosny1.webp"
+      ],
       "imageDescription": null,
       "name": "Bureau Château ROSNY",
       "description": "Transformez l’espace de travail de votre enfant avec le bureau Château Rosny de Bambinos, un design élégant et fonctionnel inspiré des châteaux de contes de fées.",
@@ -148,7 +164,9 @@
     },
     {
       "id": "9",
-      "images": ["okda1.webp"],
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/okda1.webp"
+      ],
       "imageDescription": null,
       "name": "Bibliothèque OKDA",
       "description": null,
@@ -161,7 +179,12 @@
     },
     {
       "id": "10",
-      "images": ["elara1.webp", "elara2.webp", "elara3.webp", "elara4.webp"],
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/elara1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/elara2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/elara3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/elara4.webp"
+      ],
       "imageDescription": null,
       "name": "Lit Elara",
       "description": "Transformez la chambre de votre enfant en circuit de course !",
