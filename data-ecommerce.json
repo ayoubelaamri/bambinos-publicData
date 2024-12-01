@@ -9,7 +9,7 @@
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing3.webp",
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing4.webp"
       ],
-      "imageDescription": "racing-description.webp",
+      "imageDescription": "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing-description.webp",
       "name": "Lit Voiture Speedy",
       "description": "Transformez la chambre de votre enfant en circuit de course !",
       "price": "1990,00",
@@ -57,7 +57,7 @@
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/bureau3.webp",
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/bureau4.webp"
       ],
-      "imageDescription": "bureau-description.webp",
+      "imageDescription": "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/bureau-description.webp",
       "name": "Bureau Speedy",
       "description": "At vero accusamus et iusto odio dignissimos blanditiis praesentiums dolores molest.",
       "price": "1490,00",
@@ -131,7 +131,7 @@
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tania1.webp",
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tania4.webp"
       ],
-      "imageDescription": "tania-description.webp",
+      "imageDescription": "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tania-description.webp",
       "name": "Lit Superposé Tania",
       "description": "Lit superposé pour 2 enfants. Possibilité de choisir la couleur et personnaliser le thème de décoration.",
       "price": "4900,00",
