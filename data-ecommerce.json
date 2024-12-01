@@ -1,0 +1,212 @@
+{
+  "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
+  "products": [
+    {
+      "id": "1",
+      "images": [
+        "racing1.webp",
+        "racing2.webp",
+        "racing3.webp",
+        "racing4.webp"
+      ],
+      "imageDescription": "racing-description.webp",
+      "name": "Lit Voiture Speedy",
+      "description": "Transformez la chambre de votre enfant en circuit de course !",
+      "price": "1990,00",
+      "oldPrice": "4800,00",
+      "variations": [],
+      "features": [
+        "Lit en forme de voiture de course",
+        "Dimension (L x l x h): 200 x 100 x 55 cm",
+        "Dimensions de couchage : 90 x 190 cm",
+        "Sommier inclus, Matelas non inclus",
+        "Kit de montage inclu .."
+      ],
+      "gender": "male",
+      "categories": ["beds"]
+    },
+    {
+      "id": "2",
+      "images": [
+        "princess1.webp",
+        "princess2.webp",
+        "princess3.webp",
+        "princess4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit Princesse",
+      "description": "Transformez la chambre de votre enfant en circuit de course !",
+      "price": "1990,00",
+      "oldPrice": "3990,00",
+      "variations": [],
+      "features": [
+        "Lit en forme de voiture de course",
+        "Dimension (L x l x h): 200 x 100 x 55 cm",
+        "Dimensions de couchage : 90 x 190 cm",
+        "Sommier inclus, Matelas non inclus",
+        "Kit de montage inclu .."
+      ],
+      "gender": "female",
+      "categories": ["beds"]
+    },
+    {
+      "id": "3",
+      "images": [
+        "bureau2.webp",
+        "bureau1.webp",
+        "bureau3.webp",
+        "bureau4.webp"
+      ],
+      "imageDescription": "bureau-description.webp",
+      "name": "Bureau Speedy",
+      "description": "At vero accusamus et iusto odio dignissimos blanditiis praesentiums dolores molest.",
+      "price": "1490,00",
+      "oldPrice": "3490,00",
+      "variations": [],
+      "features": [
+        "Dimension (L x l x h): 120 x 60 x 74 cm",
+        "Kit de montage inclu .."
+      ],
+      "gender": "both",
+      "categories": ["desks"]
+    },
+    {
+      "id": "4",
+      "images": [
+        "epsilon1.webp",
+        "epsilon2.webp",
+        "epsilon3.webp",
+        "epsilon4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit EPSILON",
+      "description": "Lit Epsilon en forme arrondie et inclinée. Idéal pour une chambre à deux enfants avec une disposition symétrique des lits. Cela donne un aspect très original et décoratif. Dimensions de couchage 90*190. Possibilité de personnaliser les dimensions, les couleurs et les thèmes. Le thèmes Astro, pour que votre votre enfant puisse partir dans l’espace dans son imaginaire ? Découvrir les fusées et marcher sur la lune ? Créez-lui donc un univers propice à sa vocation.",
+      "price": "2975,00",
+      "oldPrice": "3500,00",
+      "variations": [],
+      "features": [],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "5",
+      "images": ["diva3.webp", "diva2.webp", "diva1.webp"],
+      "imageDescription": null,
+      "name": "Lit DIVA",
+      "description": "Ce lit est un mélange sensations: vigueur de la voiture et la sensibilité d’une princesse qui voyage vers un monde plein d’imaginations et de plaisir. Le choix des couleurs et la personnalisation du thème et possible.",
+      "price": "4575,00",
+      "oldPrice": "3600,00",
+      "variations": [],
+      "features": ["Dimension du matelas 90*190"],
+      "gender": "female",
+      "categories": ["beds"]
+    },
+    {
+      "id": "6",
+      "images": ["mira1.webp", "mira2.webp", "mira3.webp", "mira4.webp"],
+      "imageDescription": null,
+      "name": "Lit MIRA",
+      "description": "Mira: donnez a votre princesse son monde féerique. Les couleurs et les thèmes sont personnalisables.",
+      "price": "3500,00",
+      "oldPrice": "2975,00",
+      "variations": [],
+      "features": ["Dimension 90×190 cm"],
+      "gender": "female",
+      "categories": ["beds"]
+    },
+    {
+      "id": "7",
+      "images": ["tania3.webp", "tania2.webp", "tania1.webp", "tania4.webp"],
+      "imageDescription": "tania-description.webp",
+      "name": "Lit Superposé Tania",
+      "description": "Lit superposé pour 2 enfants. Possibilité de choisir la couleur et personnaliser le thème de décoration.",
+      "price": "4900,00",
+      "oldPrice": "9800,00",
+      "variations": [],
+      "features": [
+        "Tania Flash : S’endormir & bien dormir",
+        "Dimension L:240x110x150 cm"
+      ],
+      "gender": "both",
+      "categories": ["beds", "bunks"]
+    },
+    {
+      "id": "8",
+      "images": ["rosny1.webp"],
+      "imageDescription": null,
+      "name": "Bureau Château ROSNY",
+      "description": "Transformez l’espace de travail de votre enfant avec le bureau Château Rosny de Bambinos, un design élégant et fonctionnel inspiré des châteaux de contes de fées.",
+      "price": "6500,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": [
+        "Dimensions globales : L 160 * P54 * H 72 cm",
+        "Bureau sans chaise"
+      ],
+      "gender": "both",
+      "categories": ["desks"]
+    },
+    {
+      "id": "9",
+      "images": ["okda1.webp"],
+      "imageDescription": null,
+      "name": "Bibliothèque OKDA",
+      "description": null,
+      "price": "3800,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": ["Dimension 90×190 cm"],
+      "gender": "both",
+      "categories": ["storage"]
+    },
+    {
+      "id": "10",
+      "images": ["elara1.webp", "elara2.webp", "elara3.webp", "elara4.webp"],
+      "imageDescription": null,
+      "name": "Lit Elara",
+      "description": "Transformez la chambre de votre enfant en circuit de course !",
+      "price": "1990,00",
+      "oldPrice": "3990,00",
+      "variations": [],
+      "features": [
+        "Lit en forme de voiture de course",
+        "Dimension (L x l x h): 200 x 100 x 55 cm",
+        "Dimensions de couchage : 90 x 190 cm",
+        "Sommier inclus, Matelas non inclus",
+        "Kit de montage inclu .."
+      ],
+      "gender": "female",
+      "categories": ["beds"]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "image": "1.jpg",
+      "name": "Harsh P.",
+      "canal": "sur Facebook",
+      "comment": "I used to dread doing my taxes every year, but pagedone has made the process so much simpler and stress-free."
+    },
+    {
+      "id": "2",
+      "image": "2.jpg",
+      "name": "Harsh P.",
+      "canal": "sur Whatsapp",
+      "comment": "I used to dread doing my taxes every year, but pagedone has made the process so much simpler and stress-free."
+    },
+    {
+      "id": "3",
+      "image": "3.jpg",
+      "name": "Trump D.",
+      "canal": "sur Instagram",
+      "comment": "I used to dread doing my taxes every year, but pagedone has made the process so much simpler and stress-free."
+    },
+    {
+      "id": "4",
+      "image": "4.jpg",
+      "name": "Viladofa M.",
+      "canal": "sur Whatsapp",
+      "comment": "I used to dread doing my taxes every year, but pagedone has made the process so much simpler and stress-free."
+    }
+  ]
+}
