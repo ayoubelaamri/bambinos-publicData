@@ -3,7 +3,12 @@
   "products": [
     {
       "id": "1",
-      "images": [],
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing4.webp"
+      ],
       "imageDescription": "racing-description.webp",
       "name": "Lit Voiture Speedy",
       "description": "Transformez la chambre de votre enfant en circuit de course !",
