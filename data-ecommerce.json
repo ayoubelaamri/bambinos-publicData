@@ -4,10 +4,10 @@
     {
       "id": "1",
       "images": [
-        "racing1.webp",
-        "racing2.webp",
-        "racing3.webp",
-        "racing4.webp"
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing4.webp"
       ],
       "imageDescription": "racing-description.webp",
       "name": "Lit Voiture Speedy",
