@@ -1,5 +1,4 @@
 {
-  "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
   "products": [
     {
       "id": "1",
@@ -202,6 +201,7 @@
       "categories": ["beds"]
     }
   ],
+  "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
   "testimonials": [
     {
       "id": "1",
