@@ -205,7 +205,7 @@
   "testimonials": [
     {
       "id": "1",
-      "image": "1.jpg",
+      "image": null,
       "name": "Harsh P.",
       "canal": "sur Facebook",
       "comment": "I used to dread doing my taxes every year, but pagedone has made the process so much simpler and stress-free."
