@@ -212,9 +212,7 @@
       "price": "9000,00",
       "oldPrice": "12000,00",
       "variations": [],
-      "features": [
-        "Lit grace rond 1,20 x 2,20"
-      ],
+      "features": ["Lit grace rond 1,20 x 2,20"],
       "gender": "both",
       "categories": ["beds"]
     },
@@ -231,9 +229,7 @@
       "price": "5525,00",
       "oldPrice": "6500,00",
       "variations": [],
-      "features": [
-        "Lit CANAPÉ 90 x 1,90 avec tiroirs de rangement"
-      ],
+      "features": ["Lit CANAPÉ 90 x 1,90 avec tiroirs de rangement"],
       "gender": "both",
       "categories": ["beds"]
     },
@@ -251,9 +247,7 @@
       "price": "3600,00",
       "oldPrice": "4500,00",
       "variations": [],
-      "features": [
-        "Lit Aludra Sans Tiroirs 120 x 190 cm"
-      ],
+      "features": ["Lit Aludra Sans Tiroirs 120 x 190 cm"],
       "gender": "both",
       "categories": ["beds"]
     },
@@ -271,9 +265,7 @@
       "price": "4875,00",
       "oldPrice": "6500,00",
       "variations": [],
-      "features": [
-        "Dimension: 90*190"
-      ],
+      "features": ["Dimension: 90*190"],
       "gender": "both",
       "categories": ["beds"]
     },
@@ -307,9 +299,7 @@
       "price": "6000,00",
       "oldPrice": "7500,00",
       "variations": [],
-      "features": [
-        "Lit Carosse 90*190 cm Il est l’heure de bien dormir"
-      ],
+      "features": ["Lit Carosse 90*190 cm Il est l’heure de bien dormir"],
       "gender": "both",
       "categories": ["beds"]
     },
@@ -327,9 +317,7 @@
       "price": "2720,00",
       "oldPrice": "3200,00",
       "variations": [],
-      "features": [
-        "Dimensions de couchage 90*190"
-      ],
+      "features": ["Dimensions de couchage 90*190"],
       "gender": "both",
       "categories": ["beds"]
     },
@@ -368,16 +356,14 @@
       "price": "2800,00",
       "oldPrice": "3500,00",
       "variations": [],
-      "features": [
-        "Tipi : 90×190 cm la plus belle façon de grandir"
-      ],
+      "features": ["Tipi : 90×190 cm la plus belle façon de grandir"],
       "gender": "both",
       "categories": ["beds"]
     },
     {
       "id": "21",
       "images": [
-        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/1er-etage1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/1er-etage1.webp"
       ],
       "imageDescription": null,
       "name": "Superposé 1er Age",
@@ -385,13 +371,11 @@
       "price": "13500,00",
       "oldPrice": null,
       "variations": [],
-      "features": [
-        "Lit superposé 1er âge. Dimensions de couchage 90 x 1,90"
-      ],
+      "features": ["Lit superposé 1er âge. Dimensions de couchage 90 x 1,90"],
       "gender": "both",
       "categories": ["bunks"]
     },
-     {
+    {
       "id": "22",
       "images": [
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/odyssee1.webp",
@@ -403,9 +387,7 @@
       "price": "28800,00",
       "oldPrice": null,
       "variations": [],
-      "features": [
-        "Lit Odyssee 90x190cm"
-      ],
+      "features": ["Lit Odyssee 90x190cm"],
       "gender": "both",
       "categories": ["bunks"]
     },
@@ -421,9 +403,7 @@
       "price": "10800,00",
       "oldPrice": "13500.00",
       "variations": [],
-      "features": [
-        "Dimension 90×190 cm La plus belle façon de grandir"
-      ],
+      "features": ["Dimension 90×190 cm La plus belle façon de grandir"],
       "gender": "both",
       "categories": ["bunks"]
     }
