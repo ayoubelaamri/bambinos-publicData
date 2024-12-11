@@ -343,6 +343,25 @@
       "categories": ["beds"]
     },
     {
+      "id": "19",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/L1.webp"
+      ],
+      "imageDescription": null,
+      "name": "Superposé en L avec Bureau",
+      "description": "Le Lit Superposé en L avec Bureau de Bambinos est la solution parfaite pour les chambres d’enfants ayant besoin de multifonctionnalité sans compromettre l’espace. Ce design ingénieux combine un espace de couchage sécurisé en hauteur avec un coin bureau spacieux en dessous, idéal pour les devoirs, les projets artistiques ou simplement pour rêver.",
+      "price": "15950,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": [
+        "Dimension globale L:240x110x150 cm.",
+        "Dimension de couchage 90x190cm.",
+        "Sans Tiroirs sous lit."
+      ],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
       "id": "20",
       "images": [
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tipi1.webp",
@@ -501,25 +520,6 @@
       "oldPrice": "14000,00",
       "variations": [],
       "features": ["Dimensions 90*190"],
-      "gender": "both",
-      "categories": ["bunks"]
-    },
-    {
-      "id": "30",
-      "images": [
-        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/L1.webp"
-      ],
-      "imageDescription": null,
-      "name": "Superposé en L avec Bureau",
-      "description": "Le Lit Superposé en L avec Bureau de Bambinos est la solution parfaite pour les chambres d’enfants ayant besoin de multifonctionnalité sans compromettre l’espace. Ce design ingénieux combine un espace de couchage sécurisé en hauteur avec un coin bureau spacieux en dessous, idéal pour les devoirs, les projets artistiques ou simplement pour rêver.",
-      "price": "15950,00",
-      "oldPrice": null,
-      "variations": [],
-      "features": [
-        "Dimension globale L:240x110x150 cm.",
-        "Dimension de couchage 90x190cm.",
-        "Sans Tiroirs sous lit."
-      ],
       "gender": "both",
       "categories": ["bunks"]
     }
