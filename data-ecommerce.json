@@ -199,6 +199,233 @@
       ],
       "gender": "female",
       "categories": ["beds"]
+    },
+    {
+      "id": "11",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/grace1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/grace2.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit GRACE",
+      "description": "",
+      "price": "9000,00",
+      "oldPrice": "12000,00",
+      "variations": [],
+      "features": [
+        "Lit grace rond 1,20 x 2,20"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "12",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/kari1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/kari2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/kari3.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit KARI",
+      "description": "",
+      "price": "5525,00",
+      "oldPrice": "6500,00",
+      "variations": [],
+      "features": [
+        "Lit CANAPÉ 90 x 1,90 avec tiroirs de rangement"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "13",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/aludra1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/aludra2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/aludra3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/aludra4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit ALUDRA",
+      "description": "Apportez une touche d’élégance et de modernité à la chambre de votre enfant avec le lit Aludra Londres de Bambinos, alliant design sophistiqué et confort optimal.",
+      "price": "3600,00",
+      "oldPrice": "4500,00",
+      "variations": [],
+      "features": [
+        "Lit Aludra Sans Tiroirs 120 x 190 cm"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "14",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabane1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabane2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabane3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabane4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit Cabane Basse",
+      "description": "Cabane Basse : Votre bébé respire, et vous aussi.",
+      "price": "4875,00",
+      "oldPrice": "6500,00",
+      "variations": [],
+      "features": [
+        "Dimension: 90*190"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "15",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabane-jane1.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit CABANE JANE",
+      "description": "Invitez l’aventure et la créativité dans la chambre de votre enfant avec le lit cabane Jane de Bambinos, un espace de jeu et de repos sécurisé et enchanteur. ",
+      "price": "6375,00",
+      "oldPrice": "7500,00",
+      "variations": [],
+      "features": [
+        "CABANE JANE 90*190 cm",
+        "Cabane Jane : mille et une façon de s’éveiller ."
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "16",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/carosse1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/carosse2.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit CAROSSE",
+      "description": "Faites de chaque nuit un conte de fées avec le lit Carrosse de Bambinos, un design enchanteur et sécurisé pour les petits rêveurs.",
+      "price": "6000,00",
+      "oldPrice": "7500,00",
+      "variations": [],
+      "features": [
+        "Lit Carosse 90*190 cm Il est l’heure de bien dormir"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "17",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cloud1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cloud2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cloud3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cloud4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit CLOUD",
+      "description": "Le Lit Cloud de Bambinos est une véritable invitation à la détente et à l’imaginaire, conçu pour offrir un espace de sommeil aussi confortable que stimulant pour l’esprit. Avec son design élégant et sa silhouette légère, ce lit apporte une touche de douceur et de poésie dans la chambre de votre enfant.",
+      "price": "2720,00",
+      "oldPrice": "3200,00",
+      "variations": [],
+      "features": [
+        "Dimensions de couchage 90*190"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "18",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/nemsis1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/nemsis2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/nemsis3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/nemsis4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit NEMSIS",
+      "description": "Le Lit Nemsis de Bambinos est la quintessence du confort moderne pour la chambre de votre enfant. Conçu pour offrir plus qu’un simple espace de sommeil, ce lit est un véritable sanctuaire de détente et de sécurité.",
+      "price": "3800,00",
+      "oldPrice": "4950,00",
+      "variations": [],
+      "features": [
+        "LIT NEMSIS Dimension du matelas 90*190",
+        "Le choix des couleurs et la personnalisation du thème et possible"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "20",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tipi1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tipi2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tipi3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/tipi4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit TIPI",
+      "description": "Le Lit Tipi de Bambinos est bien plus qu’un simple lit ; c’est une invitation à l’aventure quotidienne pour votre enfant. Conçu pour stimuler l’imagination et encourager le jeu créatif, ce lit unique en forme de tipi crée une atmosphère de camping ludique directement dans la chambre de votre enfant.",
+      "price": "2800,00",
+      "oldPrice": "3500,00",
+      "variations": [],
+      "features": [
+        "Tipi : 90×190 cm la plus belle façon de grandir"
+      ],
+      "gender": "both",
+      "categories": ["beds"]
+    },
+    {
+      "id": "21",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/1er-etage1.webp",
+      ],
+      "imageDescription": null,
+      "name": "Superposé 1er Age",
+      "description": "Conçu avec amour et une attention exceptionnelle pour garantir sécurité et confort, le lit Premier Âge de chez Bambinos est plus qu’un simple meuble : c’est un cocon de douceur pour les tout-petits. Chaque détail de ce lit a été pensé pour s’adapter à l’univers unique de votre enfant, reflétant notre engagement envers la qualité, l’unicité et l’originalité.",
+      "price": "13500,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": [
+        "Lit superposé 1er âge. Dimensions de couchage 90 x 1,90"
+      ],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+     {
+      "id": "22",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/odyssee1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/odyssee2.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit CABANE ODYSSEE",
+      "description": "Le Lit Cabane Odyssée de Bambinos est bien plus qu’un simple lit ; c’est un espace d’exploration et de rêve pour votre enfant. Conçu pour stimuler l’imagination et créer un environnement de jeu sécurisé, ce lit cabane invite votre enfant à vivre des aventures palpitantes sans quitter sa chambre.",
+      "price": "28800,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": [
+        "Lit Odyssee 90x190cm"
+      ],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
+      "id": "23",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/combine1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/combine2.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit COMBINE VEGA",
+      "description": "Le Lit Combiné Vega de Bambinos est la solution parfaite pour les chambres d’enfants où l’espace doit être maximisé sans sacrifier le confort ni la fonctionnalité. Ce lit ingénieusement conçu combine un espace de couchage confortable avec des solutions de rangement pratiques et un bureau intégré, idéal pour les activités scolaires et créatives.",
+      "price": "10800,00",
+      "oldPrice": "13500.00",
+      "variations": [],
+      "features": [
+        "Dimension 90×190 cm La plus belle façon de grandir"
+      ],
+      "gender": "both",
+      "categories": ["bunks"]
     }
   ],
   "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
