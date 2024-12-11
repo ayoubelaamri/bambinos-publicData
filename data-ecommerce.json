@@ -406,6 +406,122 @@
       "features": ["Dimension 90×190 cm La plus belle façon de grandir"],
       "gender": "both",
       "categories": ["bunks"]
+    },
+    {
+      "id": "24",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/zebra1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/zebra2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/zebra3.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit Superposé Zebra",
+      "description": "Le Lit Superposé Zebra de Bambinos est la solution idéale pour les familles cherchant à maximiser l’espace tout en offrant un lieu de repos confortable et sécurisé pour leurs enfants. Conçu avec soin, ce lit superposé combine robustesse et style, et est parfait pour les fratries ou les soirées pyjama.",
+      "price": "15400,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": ["Dimension 90×190 cm"],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
+      "id": "25",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/melo1.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit Superposé MELI MELO 3 Places",
+      "description": "Le Lit Superposé Meli-Melo 3 places de Bambinos est la solution idéale pour maximiser l’espace dans les chambres partagées tout en offrant un confort exceptionnel à chaque enfant. Ce lit superposé est conçu pour accueillir trois couchages dans une configuration compacte et sécurisée, rendant chaque nuit une aventure confortable et amusante.",
+      "price": "25000,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": [],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
+      "id": "26",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/safari1.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit SAFARI",
+      "description": "Le Lit Safari de Bambinos transforme la chambre de votre enfant en un véritable terrain d’aventure. Inspiré par la faune et la flore africaines, ce lit unique et captivant stimule l’imagination des enfants, les emmenant dans des safaris nocturnes remplis de découvertes passionnantes.",
+      "price": "18800,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": ["Dimensions 90*190"],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
+      "id": "27",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/rosny-toboggan1.webp"
+      ],
+      "imageDescription": null,
+      "name": "Château Rosny avec Toboggan",
+      "description": "Plongez dans un monde de magie et de merveilles avec le lit Château Rosny Gold avec Toboggan de Bambinos. Conçu pour éveiller l’imagination des jeunes esprits et encourager leurs aventures quotidiennes, ce lit n’est pas seulement un lieu de repos mais un véritable terrain de jeu personnel.",
+      "price": "28000,00",
+      "oldPrice": "38500.00",
+      "variations": [],
+      "features": ["Dimensions : 90*190"],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
+      "id": "28",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cubo1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cubo2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cubo3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cubo4.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit CUBO",
+      "description": "Le Lit Cubo de Bambinos révolutionne la conception du couchage enfantin grâce à son approche modulaire et innovante. Ce lit n’est pas seulement un lieu de repos ; c’est un espace de vie évolutif qui s’adapte aux besoins changeants de votre enfant tout en stimulant sa créativité et son autonomie.",
+      "price": "30000,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": ["Dimension du matelas 90*190"],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
+      "id": "29",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/mega1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/mega2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/mega3.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit MEGA",
+      "description": "Le Lit Mega de Bambinos est l’incarnation parfaite de la multifonctionnalité, spécialement conçu pour s’adapter aux besoins dynamiques des enfants en pleine croissance. Ce lit combine un espace de sommeil confortable, de vastes options de rangement et un bureau intégré, rendant chaque centimètre carré utile et attrayant.",
+      "price": "11200,00",
+      "oldPrice": "14000,00",
+      "variations": [],
+      "features": ["Dimensions 90*190"],
+      "gender": "both",
+      "categories": ["bunks"]
+    },
+    {
+      "id": "30",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/L1.webp"
+      ],
+      "imageDescription": null,
+      "name": "Superposé en L avec Bureau",
+      "description": "Le Lit Superposé en L avec Bureau de Bambinos est la solution parfaite pour les chambres d’enfants ayant besoin de multifonctionnalité sans compromettre l’espace. Ce design ingénieux combine un espace de couchage sécurisé en hauteur avec un coin bureau spacieux en dessous, idéal pour les devoirs, les projets artistiques ou simplement pour rêver.",
+      "price": "15950,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": [
+        "Dimension globale L:240x110x150 cm.",
+        "Dimension de couchage 90x190cm.",
+        "Sans Tiroirs sous lit."
+      ],
+      "gender": "both",
+      "categories": ["bunks"]
     }
   ],
   "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
