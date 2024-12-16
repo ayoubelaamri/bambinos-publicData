@@ -697,6 +697,21 @@
       "features": ["Lit bébé avec tiroir de rangement 60 x 1,20"],
       "gender": "both",
       "categories": ["babies", "beds"]
+    },
+    {
+      "id": "40",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/odysseeToboggan1.webp"
+      ],
+      "imageDescription": null,
+      "name": "Lit Odyssée avec Toboggan",
+      "description": "Le Lit Odyssée avec Toboggan transforme la chambre de votre enfant en un véritable espace de jeu et de repos. Avec son design en forme de cabane et son toboggan intégré, ce lit allie fun, confort et praticité. Ses couleurs douces et ses finitions soignées apportent une touche moderne et ludique à la décoration, tout en offrant un coin rêvé pour dormir, jouer et s'évader au quotidien.",
+      "price": "28000,00",
+      "oldPrice": null,
+      "variations": [],
+      "features": ["Un lit unique pour des aventures sans fin !"],
+      "gender": "both",
+      "categories": ["beds"]
     }
   ],
   "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
