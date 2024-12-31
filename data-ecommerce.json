@@ -712,7 +712,29 @@
       "features": ["Un lit unique pour des aventures sans fin !"],
       "gender": "both",
       "categories": ["beds"]
-    }
+    },
+    {
+       "id": "42",
+      "images": [
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabaneodyssee1.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabaneodyssee2.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabaneodyssee3.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabaneodyssee4.webp",
+        "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabaneodyssee5.webp"
+      ],
+      "imageDescription": "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing-description.webp",
+      "name": "Lit cabane odyssée",
+      "description": "Transformez la chambre de votre enfant en circuit de course !",
+      "price": "1990,00",
+      "oldPrice": "4800,00",
+      "variations": [],
+      "features": [
+        "feature 1",
+        "feature 2"
+      ],
+      "gender": "male",
+      "categories": ["beds"]
+    },
   ],
   "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
   "testimonials": [
