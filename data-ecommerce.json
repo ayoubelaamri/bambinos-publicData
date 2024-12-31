@@ -1,6 +1,7 @@
 {
-  "products": 
-      "id": "1",
+  "products": [
+     {
+       "id": "1",
       "images": [
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing1.webp",
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing2.webp",
