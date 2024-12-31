@@ -1,7 +1,7 @@
 {
   "products": [
-     {
-       "id": "1",
+    {
+      "id": "1",
       "images": [
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing1.webp",
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/racing2.webp",
@@ -714,7 +714,7 @@
       "categories": ["beds"]
     },
     {
-       "id": "42",
+      "id": "42",
       "images": [
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabaneodyssee1.webp",
         "https://raw.githubusercontent.com/ayoubelaamri/bambinos-publicData/refs/heads/main/images/products-ecommerce/cabaneodyssee2.webp",
@@ -728,13 +728,10 @@
       "price": "1990,00",
       "oldPrice": "4800,00",
       "variations": [],
-      "features": [
-        "feature 1",
-        "feature 2"
-      ],
+      "features": ["feature 1", "feature 2"],
       "gender": "male",
       "categories": ["beds"]
-    },
+    }
   ],
   "categories": ["beds", "bunks", "desks", "storage", "babies", "nursery"],
   "testimonials": [
